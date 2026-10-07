@@ -1,0 +1,19 @@
+payload:
+  - DOMAIN-SUFFIX,login.tailscale.com
+  - DOMAIN-SUFFIX,log.tailscale.io
+  - DOMAIN-SUFFIX,log.tailscale.com
+  - DOMAIN-SUFFIX,derp2d.tailscale.com
+  - DOMAIN-SUFFIX,derp3e.tailscale.com
+  - DOMAIN-SUFFIX,derp3g.tailscale.com
+  - DOMAIN-SUFFIX,derp4f.tailscale.com
+  - DOMAIN-SUFFIX,derp5e.tailscale.com
+  - DOMAIN-SUFFIX,derp6.tailscale.com
+  - DOMAIN-SUFFIX,derp8e.tailscale.com
+  - DOMAIN-SUFFIX,derp9d.tailscale.com
+  - DOMAIN-SUFFIX,derp12d.tailscale.com
+  - DOMAIN-SUFFIX,derp14b.tailscale.com
+  - DOMAIN-SUFFIX,derp17b.tailscale.com
+  - DOMAIN-SUFFIX,derp20b.tailscale.com
+  - DOMAIN-SUFFIX,derp22b.tailscale.com
+  - DOMAIN-SUFFIX,derp23b.tailscale.com
+  - DOMAIN-SUFFIX,controlplane.tailscale.com
